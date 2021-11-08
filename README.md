@@ -6,3 +6,4 @@
   - [KuttiPencil](https://kuttipencil.in/google/)- convert English Into Malayalam 
 
   - [Malayalam Fonts](https://smc.org.in/fonts/)- Download Malayalam Fonts For Free
+  - [Malyalam Inscript Keyboard Layout](https://malayalam.kerala.gov.in/images/7/78/Inscript.jpg)-Malyalam Inscript Keyboard Layout
